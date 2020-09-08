@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TrsPortfolio/static/css/main.0ac92dd9.chunk.css",
+    "main.css": "/TrsPortfolio/static/css/main.46d7ec4a.chunk.css",
     "main.js": "/TrsPortfolio/static/js/main.ede07a2e.chunk.js",
     "main.js.map": "/TrsPortfolio/static/js/main.ede07a2e.chunk.js.map",
     "runtime-main.js": "/TrsPortfolio/static/js/runtime-main.38cd9d47.js",
@@ -8,9 +8,9 @@
     "static/js/2.4385df09.chunk.js": "/TrsPortfolio/static/js/2.4385df09.chunk.js",
     "static/js/2.4385df09.chunk.js.map": "/TrsPortfolio/static/js/2.4385df09.chunk.js.map",
     "index.html": "/TrsPortfolio/index.html",
-    "precache-manifest.01baaceaf554d436e0acff34093fe9a4.js": "/TrsPortfolio/precache-manifest.01baaceaf554d436e0acff34093fe9a4.js",
+    "precache-manifest.2a0013db763f4c65a3c7624886b0e17b.js": "/TrsPortfolio/precache-manifest.2a0013db763f4c65a3c7624886b0e17b.js",
     "service-worker.js": "/TrsPortfolio/service-worker.js",
-    "static/css/main.0ac92dd9.chunk.css.map": "/TrsPortfolio/static/css/main.0ac92dd9.chunk.css.map",
+    "static/css/main.46d7ec4a.chunk.css.map": "/TrsPortfolio/static/css/main.46d7ec4a.chunk.css.map",
     "static/js/2.4385df09.chunk.js.LICENSE.txt": "/TrsPortfolio/static/js/2.4385df09.chunk.js.LICENSE.txt",
     "static/media/ava.png": "/TrsPortfolio/static/media/ava.5b6b8a58.png",
     "static/media/project3.png": "/TrsPortfolio/static/media/project3.82d4d989.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.38cd9d47.js",
     "static/js/2.4385df09.chunk.js",
-    "static/css/main.0ac92dd9.chunk.css",
+    "static/css/main.46d7ec4a.chunk.css",
     "static/js/main.ede07a2e.chunk.js"
   ]
 }
