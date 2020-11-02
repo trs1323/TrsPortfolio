@@ -10,7 +10,7 @@ export default class Showcase extends Component {
                     <p>Designer, Front-end Developer, &amp; Team player</p>
                 </div>
                 <div className='showcase-sub-text'>
-                    <p>I design and code simple clean things, and I love it.</p>
+                    <p>I design and code simple, clean things, and I love it.</p>
                 </div>
                 <div className="showcase-img-container">
                     <img src={Avatar} className="showcase-img" alt='avatar' />

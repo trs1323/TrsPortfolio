@@ -19,21 +19,21 @@ export default class RecentWork extends Component {
                     <div className='recent-work-project'>
                         <img src={Project8} alt='project8' />
                         <div className='recent-work-project-info'>
-                            <p>Made with Offerical Api of Smite, look up you or your friends match history, information about the game, and more.</p>
+                            <p>Made with Official API of Smite, look up you or your friends match history, information about the game, and more.</p>
                             <a href="https://trs1323.github.io/smite_react/" target="_blank" rel="noopener noreferrer">Visit Website </a>
                         </div>
                     </div>
                     <div className='recent-work-project'>
                         <img src={Project1} alt='project1' />
                         <div className='recent-work-project-info'>
-                            <p>Pong clone, made from scrath with Javascript.</p>
+                            <p>Pong clone, made from scratch with Javascript.</p>
                             <a href="https://trs1323.github.io/pong/" target="_blank" rel="noopener noreferrer">Visit Website </a>
                         </div>
                     </div>
                     <div className='recent-work-project'>
                         <img src={Project2} alt='project2' />
                         <div className='recent-work-project-info'>
-                            <p>Tetris clone, made from scrath with Javascript. Set your high school and try to beat it.</p>
+                            <p>Tetris clone, made from scratch with Javascript. Set your high score and try to beat it.</p>
                             <a href="https://trs1323.github.io/tetris/" target="_blank" rel="noopener noreferrer">Visit Website </a>
                         </div>
                     </div>
@@ -47,7 +47,7 @@ export default class RecentWork extends Component {
                     <div className='recent-work-project'>
                         <img src={Project4} alt='project4' />
                         <div className='recent-work-project-info'>
-                            <p>Mock up merchindie site. Build with React.</p>
+                            <p>Mock up merchandise site. Build with React.</p>
                             <a href="https://trs1323.github.io/merch-site/" target="_blank" rel="noopener noreferrer">Visit Website </a>
                         </div>
                     </div>
